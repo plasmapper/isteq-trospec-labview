@@ -6,7 +6,7 @@ LabVIEW 2015 and higher.
 
 ## Installation
 1. Use [Zadig](http://zadig.akeo.ie/) to install the WinUSB device driver (recommended way of using [libusb on Windows](https://github.com/libusb/libusb/wiki/Windows#how-to-use-libusb-on-windows)).
-2. Install the [VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_isteq_trospec/)
+2. Install the [VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_isteq_trospec/).
 
 ## Features
 1. Configure CCD period, gain, offset and frame acquisition.
